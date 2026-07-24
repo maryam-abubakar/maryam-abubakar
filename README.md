@@ -1,4 +1,4 @@
-# Hi, I'm Maryam Abubakar 👋
+# Hi, I'm Maryam Abubakar 
 
 🧪 Medical Laboratory Scientist (BMLS, UDUS)
 📊 Healthcare Data Analytics Enthusiast | SQL • Excel • Power BI
