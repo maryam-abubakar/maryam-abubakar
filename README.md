@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Maryam Abubakar 👋
 
-<!--
-**maryam-abubakar/maryam-abubakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧪 Medical Laboratory Scientist (BMLS, UDUS)
+📊 Healthcare Data Analytics Enthusiast | SQL • Excel • Power BI
 
-Here are some ideas to get you started:
+I am fascinated by the power of diagnostics, data, and technology to transform the future of healthcare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+
+- SQL
+- Microsoft Excel
+- Power BI
+- Tableau
+- Python
+
+## 🧪 Healthcare Domain Skills
+
+- Clinical Laboratory Science
+- Healthcare Data Analytics
+- Laboratory Automation & Instrumentation
+
+## 📂 Featured Projects
+
+### 🧪 Laboratory Sales Dashboard
+
+- Built an interactive Excel and Power BI dashboard to analyze laboratory revenue, test performance, and
+ customer trends.
+- Identified key insights to support data-driven decision-making.
+
+[View Project](https://github.com/maryam-abubakar)
+
+### 🏥 Patient Laboratory Test Analysis
+
+- Analyzed patient demographics, laboratory test trends, and result patterns using healthcare datasets.
+- Used SQL and visualization tools to generate insights for healthcare decision-making.
+
+  
+## 📈 Currently Learning
+
+- Advanced SQL
+- Data Visualization
+- Healthcare Analytics
+- Biomedical Technology
+
+## 🤝 Connect With Me
+
+LinkedIn: https://www.linkedin/in/abubakarmaryam 
