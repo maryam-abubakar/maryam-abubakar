@@ -27,7 +27,7 @@ I am fascinated by the power of diagnostics, data, and technology to transform t
  customer trends.
 - Identified key insights to support data-driven decision-making.
 
-[View Project](https://github.com/maryam-abubakar)
+[View Project](https://github.com/maryam-abubakar/Laboratory-Revenye-Operations-Dashboard)
 
 ### 🏥 Patient Laboratory Test Analysis
 
