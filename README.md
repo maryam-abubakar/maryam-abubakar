@@ -21,7 +21,7 @@ I am fascinated by the power of diagnostics, data, and technology to transform t
 
 ## 📂 Featured Projects
 
-### 🧪 Laboratory Sales Dashboard
+### 🧪 Laboratory Revenue Operations Dashboard
 
 - Built an interactive Excel and Power BI dashboard to analyze laboratory revenue, test performance, and
  customer trends.
